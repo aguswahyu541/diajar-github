@@ -6,3 +6,9 @@ RENCANA PENGAPLIKASIAN BELAJAR GITHUB
 *Bertanya pada expert
 *Membaca doa di awal belajar
 *Melakukan review hasil bellajar
+ - dengan menganalisa hasil belajar
+*Menggali sremua yang berhubungan dengan github
+ -dengan cara membaca buku programing 
+ -dengan cara menonoton tutorial di youtube
+*membiasakan diri bekerja dengan github
+ -melakukan raktek sendiri atau bersama kawan
